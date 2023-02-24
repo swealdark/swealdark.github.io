@@ -1,0 +1,16 @@
+
+.infoContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.locationName {
+    margin-top: 15px;
+    font-size: 15px;
+    
+}
+.locationCountry{
+    font-size: 20px;
+}

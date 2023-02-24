@@ -1,0 +1,27 @@
+
+form {
+    display: flex;
+    justify-content: center;
+}
+
+form input {
+    margin-top: 50px;
+    width: 40%;
+    height: 40px;
+    border: none;
+    outline: none;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    font-size: 20px;
+    color: #4d4d4dca;
+}
+form input::placeholder {
+    color: #dddddd
+}
+form .search {
+    position: absolute;
+    top: 85px;
+    font-size: 30px;
+    left: 760px;
+    color: #ccc;
+}
